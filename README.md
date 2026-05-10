@@ -23,3 +23,5 @@ Figura 1. Conexión Pic18f45k22-Uart-PC
 En este pequeño video se observa el funcionamiento basico de la comunicación entre el el UART y el PC mediante la aplicación PuTTY. Logrando obtener el mensaje enviado desde el codigo.
 
 ![alt text](uart2.gif)
+
+En este segundo video se evidencia el programa realizado en Python el cual es un lector de voltaje esta información no la da el UART y el programa en Python lo que nos ayuda es a graficar y verificar otro medio de comunicación que no sea a tra ves de el PuTTY.
