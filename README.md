@@ -4,8 +4,22 @@
 
 ## Integrantes
 
+[Samuel Forero](https://github.com/Sam232510)
+
+[Danna Pineda](https://github.com/Danna-pineda)
+
 ## Documentación
+
 
 ## Diagramas
 
+![alt text](montaje.png)
+Figura 1. Conexión Pic18f45k22-Uart-PC
+
 ## Evidencias de implementación
+
+![alt text](uart1.gif)
+
+En este pequeño video se observa el funcionamiento basico de la comunicación entre el el UART y el PC mediante la aplicación PuTTY. Logrando obtener el mensaje enviado desde el codigo.
+
+![alt text](uart2.gif)
