@@ -10,7 +10,15 @@
 
 ## Documentación
 
+En este laboratorio se implementó una comunicación serial entre un microcontrolador PIC18F45K22 y un computador utilizando el protocolo UART, con el objetivo de transmitir y visualizar datos en tiempo real. Inicialmente, se configuró el microcontrolador para enviar mensajes a través del puerto serial y se verificó la correcta comunicación mediante el software PuTTY, donde fue posible observar los datos recibidos desde el sistema embebido. Posteriormente, se desarrolló un programa en Python encargado de leer la información proveniente del UART y generar una gráfica a partir de los datos obtenidos, permitiendo así analizar de forma visual el comportamiento de las señales transmitidas y comprender la integración entre hardware y software en sistemas de adquisición de datos.
 
+Luego de entender lo que se debe realizar pasaremos a describir los codigos utilizados para este laboratorio.
+
+# Uart.c
+
+# Main.c
+
+# lab6.py
 ## Diagramas
 
 ![alt text](montaje.png)
